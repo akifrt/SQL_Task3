@@ -36,7 +36,7 @@
 --	already_read int references Books(books_id)
 --)
 
---drop table Customers
+
 
 --insert into Genres(genre_name)
 --values
